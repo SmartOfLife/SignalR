@@ -1,5 +1,5 @@
-# SignalR
-SignalR入门到实践
+# SignalR2系列
+SignalR2入门
 <h3>联系我们</h3>
 http://net-yuan.com
 
